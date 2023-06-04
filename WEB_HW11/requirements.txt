@@ -1,0 +1,9 @@
+pydantic~=1.10.8
+fastapi~=0.95.2
+sqlalchemy~=2.0.15
+cloudinary~=1.33.0
+redis~=4.5.5
+passlib~=1.7.4
+libgravatar~=1.0.4
+uvicorn~=0.22.0
+alembic~=1.11.1
